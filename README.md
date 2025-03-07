@@ -77,4 +77,3 @@ Contributions are welcome! If you have suggestions, improvements, or bug fixes, 
 For any questions or feedback, feel free to reach out via [gavhanenitni911@gmail.com](mailto:gavhanenitin911@gmail.com).
 
 Happy coding, and enjoy building accessible web experiences!
-```
